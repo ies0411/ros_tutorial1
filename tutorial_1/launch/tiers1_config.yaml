@@ -1,0 +1,4 @@
+
+BAUDRATE : 51200
+SERIALPORT : '/dev/ttyUSB0'
+SERIAL_TOPIC_NAME : "/tiers/serial_data"
